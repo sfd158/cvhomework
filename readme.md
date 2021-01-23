@@ -12,11 +12,21 @@
 
 参考 `weights/readme.md`, 下载预训练好的 `pytorch`  VGG-16 网络权重.
 
+
+
 也可以直接下载完整的项目目录, 包括数据集, 代码, 及预训练好的网络权重.
 
 百度网盘链接: 
 
+链接：https://pan.baidu.com/s/1Ffb_5l1G0_bCrWgc45DjuQ 
+提取码：44om 
+
+
+
 北大网盘链接: 
+
+https://disk.pku.edu.cn:443/link/28656A03F2D8756E338C0B354ABBCC8B
+有效期限：2021-02-22 23:59
 
 
 
@@ -30,7 +40,7 @@
 
 训练 `RefineDet` 网络 `python train_refinedet.py`
 
-训练修改后 `deform` 的网络 `python train_refinedet.py --model_type deform`
+训练修改后的 `deform` 网络 `python train_refinedet.py --model_type deform`
 
 训练修改后的 `modulation` 网络 `python train_refinedet.py --model_type modulation`
 
