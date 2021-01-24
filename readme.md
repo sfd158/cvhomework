@@ -6,6 +6,11 @@
 
 
 
+实验报告和PPT下载地址
+
+链接：https://pan.baidu.com/s/15ImG4tzpdiasRt_jqh18VA 
+提取码：st57 
+
 ## 配置
 
 参考 `datasets/readme.md`, 下载所需的Pascal VOC 2007, Pascal VOC 2012数据集.
